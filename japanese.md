@@ -1,5 +1,3 @@
-乾 健太郎（[Kentaro Inui](./)）
-
 [東北大学](http://www.tohoku.ac.jp/japanese) [大学院情報科学研究科](http://www.is.tohoku.ac.jp/) [システム情報科学専攻](http://www.is.tohoku.ac.jp/introduction/organization.html#2) 教授  
 [工学部電気情報物理工学科](http://www.ecei.tohoku.ac.jp/eipe/) 兼担  
 [タフ・サイバーフィジカルＡＩ研究センター](http://tcpai.tohoku.ac.jp/) 副センター長・ＡＩ研究部門長  
