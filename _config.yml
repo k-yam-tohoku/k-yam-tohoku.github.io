@@ -1,6 +1,2 @@
-theme: minima
+#theme: minima
 title: Kentaro Inui
-
-header_pages:
-  - readme.md
-  - japanese.md
