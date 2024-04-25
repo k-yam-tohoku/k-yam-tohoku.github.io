@@ -1,3 +1,5 @@
+<div class="img_margin"><img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180"></div>
+
 [東北大学](http://www.tohoku.ac.jp/japanese) [大学院情報科学研究科](http://www.is.tohoku.ac.jp/) [システム情報科学専攻](http://www.is.tohoku.ac.jp/introduction/organization.html#2) 教授  
 [工学部電気情報物理工学科](http://www.ecei.tohoku.ac.jp/eipe/) 兼担  
 [タフ・サイバーフィジカルＡＩ研究センター](http://tcpai.tohoku.ac.jp/) 副センター長・ＡＩ研究部門長  
@@ -14,8 +16,6 @@
 twitter: [@inuikentaro](https://twitter.com/inuikentaro)  
 
 * * *
-
-[↑](#navigator)
 
 ### 研究
 
@@ -47,8 +47,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
     - [研究室の研究発表一覧](https://www.nlp.ecei.tohoku.ac.jp/research/publications/)（2010年以降）
     - [以前の研究発表一覧](http://www.cl.ecei.tohoku.ac.jp/~inui/publication_list.html)  
         
-
-[↑](#navigator)
 
 ### 学会活動等
 
@@ -94,8 +92,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 - [過去の活動](http://www.cl.ecei.tohoku.ac.jp/~inui/?AcademicActivities)  
     
 
-[↑](#navigator)
-
 ### 講義
 
 - [人工知能](http://www.nlp.ecei.tohoku.ac.jp/lec/AI/)（学部３年・５セメ）
@@ -121,8 +117,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 - 1990/3: 東京工業大学工学部情報工学科 卒業
 - 1985/3: 千葉県立千葉高校 卒業  
     
-
-[↑](#navigator)
 
 ### 受賞
 
@@ -173,8 +167,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 - 1998: 人工知能学会 1997年度論文賞
 - 1996: 言語処理学会 第2回年次大会 優秀発表賞  
     
-
-[↑](#navigator)
 
 ### プライベート
 

@@ -1,3 +1,5 @@
+<div class="img_margin"><img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180"></div>
+
 Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
 Professor, Center for Language AI Research, [Tohoku University](http://www.tohoku.ac.jp/english/) (Cross appointment)  
@@ -17,7 +19,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 6-6-05 Aoba, Aramaki, Aoba-ku, Sendai, 980-8579, Japan ([Access](https://www.nlp.ecei.tohoku.ac.jp/about-us/access/))  
 
 * * *
-
 
 ### Research
 

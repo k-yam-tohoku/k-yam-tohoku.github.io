@@ -4,5 +4,12 @@
 @import "{{ site.theme }}";
 
 .container-lg {
-max-width: none;
+  max-width: none;
+  margin: 0px 60px 0px 60px;
+}
+
+div.img_margin {
+  float: right;
+  margin-left: 32px;
+  margin-right: 32px;
 }
