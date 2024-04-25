@@ -44,8 +44,12 @@ div.img_margin {
 }
 div.img_margin {
   float: none;
+  text-align: start;
 }
-
+div.img_margin img {
+  width: 240px;
+  height: 130px;
+}
 a:link {
   color:#6666CC;
   background-color:inherit;
