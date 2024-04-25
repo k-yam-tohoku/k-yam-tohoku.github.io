@@ -1,5 +1,6 @@
-#theme: jekyll-theme-minima
-title: Kentari Inui
+theme: minima
+title: Kentaro Inui
+
 header_pages:
   - readme.md
   - japanese.md
