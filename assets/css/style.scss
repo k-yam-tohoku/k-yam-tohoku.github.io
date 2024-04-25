@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+body {
+  color: #555555;
+  background-color: white;
+  font-family: "Hiragino Maru Gothic Pro", verdana, arial, helvetica, Sans-Serif;
+  font-size: 100%;
+}
+
 .container-lg {
   max-width: none;
   margin: 0px 60px 0px 60px;
