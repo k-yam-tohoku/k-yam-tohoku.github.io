@@ -102,8 +102,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 - [自然言語処理学](https://www.nlp.ecei.tohoku.ac.jp/lec/nlp/)（修士課程）  
     
 
-[↑](#navigator)
-
 ### 略歴
 
 - 2010/3-現在: 東北大学大学院情報科学研究科 教授
