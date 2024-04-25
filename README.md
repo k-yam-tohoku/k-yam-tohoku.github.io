@@ -1,5 +1,5 @@
 <div class="img_margin">
-<p>[日本語のページ](./japanese) [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)</p>
+<p><a href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a> <a href="./japanese">日本語のページ</a></p>
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
 
