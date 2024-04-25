@@ -31,11 +31,11 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 
 - 研究分野の概要
     - 東北大学サイエンスカフェ「言葉がわかるコンピューターはどこまでできたか ～言葉の不思議と自然言語処理の最前線」（[YouTube動画](http://www.youtube.com/watch?v=W285adx2Nr0), [スライド](http://www.cl.ecei.tohoku.ac.jp/~inui/papers/1302ScienceCafe.pdf), 2013年2月）  
-        [![ScienceCafe.png](:/b637a2009a8b4dd4a620e6123ca4ee73 "ScienceCafe.png")](http://www.youtube.com/watch?v=W285adx2Nr0)  
+        <a href="http://www.youtube.com/watch?v=W285adx2Nr0" rel="nofollow"><img src="./ScienceCafe.png" alt="" title="ScienceCafe.png" width="239" height="139"></a>
         
     - [東北大学 電気・情報 東京フォーラム](http://www.riec.tohoku.ac.jp/forum/)「ビッグデータから知をつむぐ自然言語処理」（[動画](http://www.riec.tohoku.ac.jp/riec_contents_open/forum2013/part3-1.html), 2013年11月)
     - [研究室《自然言語処理学研究室》紹介動画](https://youtu.be/IkxSsosyvXQ)（2020年8月）  
-        <img width="240" height="135" src=":/3adb17cbcb46419eb372561a5b00094f"/>](https://youtu.be/IkxSsosyvXQ)  
+        <a href="https://youtu.be/IkxSsosyvXQ" rel="nofollow"><img src="./lab_intro_image.png" alt="" title="lab_intro_image.png" width="240" height="135" /></a>
         
     - [Natural Language Understanding and Assessment](https://www.youtube.com/watch?v=liVCncjROQE&feature=emb_logo), Invited Talk at the 1st International Symposium on AI Electronics, September 2020（[YouTube動画](https://www.youtube.com/watch?v=liVCncjROQE&feature=emb_logo)）  
         
