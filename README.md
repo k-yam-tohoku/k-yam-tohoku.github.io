@@ -1,5 +1,5 @@
 <div class="img_margin"><img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180"></div>
-» [日本語のページ](./japanese) [Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)
+[» 日本語のページ](./japanese) [» Tohoku NLP Group](https://www.nlp.ecei.tohoku.ac.jp/)
 
 Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
