@@ -3,7 +3,7 @@
 
 @import "{{ site.theme }}";
 
-body {
+body, .markdown-body {
   color: #555555;
   background-color: white;
   font-family: "Hiragino Maru Gothic Pro", verdana, arial, helvetica, Sans-Serif;
