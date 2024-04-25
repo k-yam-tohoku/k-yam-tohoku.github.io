@@ -81,8 +81,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 
 - [Previous activities](http://www.cl.ecei.tohoku.ac.jp/~inui/?AcademicActivities)
 
-[↑](#navigator)
-
 ### Awards
 
 - Commendation for Science and Technology by the Minister of MEXT (2022)
@@ -127,7 +125,6 @@ twitter: [@inuikentaro](https://twitter.com/inuikentaro)
 - Annual Best Paper Award of the Japanese Society for Artificial Intelligence (1998)
 - NLP-1999 Outstanding Presentation Award
 - NLP-1996 Outstanding Presentation Award
-
 
 ### Private
 
