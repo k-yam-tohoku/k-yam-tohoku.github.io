@@ -35,6 +35,14 @@ div.img_margin {
   text-align: right;
 }
 
+p.links {
+  display: inline;
+}
+a.group-home-link {
+  margin-right: 4ch;
+}
+
+/* スマホ用指定ここから */
 @media (max-width: 640px) {
 .markdown-body h1 {
   font-size: 1.5em;
@@ -51,12 +59,16 @@ div.img_margin img {
   width: 240px;
   height: 130px;
 }
+p.links {
+  display: block;
+}
 a:link {
   color:#6666CC;
   background-color:inherit;
   text-decoration:none;
 }
 }
+/* スマホ用指定ここまで */
 
 a:active {
   color:#215dc6;
@@ -83,6 +95,3 @@ a:hover {
   border-width: 1px 0px;
 }
 
-p.links {
-  
-}
