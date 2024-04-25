@@ -1,6 +1,6 @@
 <div class="img_margin">
-<p><a href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a> <a href="./japanese">日本語のページ</a></p>
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
+<p class="links"><a href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a> <a href="./japanese">日本語のページ</a></p>
 </div>
 
 Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
