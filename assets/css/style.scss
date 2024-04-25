@@ -28,6 +28,12 @@ h3 {
   margin: 0px 60px 0px 60px;
 }
 
+@media (max-width: 640px) {
+.container-lg {
+  margin: 0px 20px 0px 20px;
+}
+}
+
 div.img_margin {
   float: right;
   margin-left: 32px;
@@ -64,4 +70,8 @@ a:hover {
   border-style: ridge;
   border-color: #BFBDBD;
   border-width: 1px 0px;
+}
+
+p.links {
+  
 }
