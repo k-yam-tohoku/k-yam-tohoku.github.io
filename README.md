@@ -1,4 +1,6 @@
-Kentaro Inui （[乾 健太郎](http://www.cl.ecei.tohoku.ac.jp/~inui/?Japanese)）
+<div class="test">テスト</div>
+
+Kentaro Inui （[乾 健太郎](./japanese.html)）
 ----
 
 Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
