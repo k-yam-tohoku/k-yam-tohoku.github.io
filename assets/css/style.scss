@@ -35,11 +35,11 @@ div.img_margin {
   text-align: right;
 }
 
-p.links {
+p.links-top, p.links {
   display: inline;
 }
 a.group-home-link {
-  margin-right: 4ch;
+  margin-right: 2ch;
 }
 
 /* スマホ用指定ここから */
@@ -59,8 +59,11 @@ div.img_margin img {
   width: 240px;
   height: 130px;
 }
-p.links {
+p.lnks-top, p.links {
   display: block;
+}
+p.links-top {
+  margin-buttom: 0;
 }
 a:link {
   color:#6666CC;
