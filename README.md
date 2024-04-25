@@ -1,8 +1,3 @@
-<div class="test">テスト</div>
-
-Kentaro Inui （[乾 健太郎](./japanese.html)）
-----
-
 Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
 Professor, Center for Language AI Research, [Tohoku University](http://www.tohoku.ac.jp/english/) (Cross appointment)  
