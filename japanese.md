@@ -2,7 +2,6 @@
 <p><a href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a> <a href="./">English page</a></p>
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
-<div class="img_margin"><img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180"></div>
 
 [東北大学](http://www.tohoku.ac.jp/japanese) [大学院情報科学研究科](http://www.is.tohoku.ac.jp/) [システム情報科学専攻](http://www.is.tohoku.ac.jp/introduction/organization.html#2) 教授  
 [工学部電気情報物理工学科](http://www.ecei.tohoku.ac.jp/eipe/) 兼担  
