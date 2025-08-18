@@ -5,6 +5,8 @@
 <img src="./inui_photo.jpeg" alt="" title="photo" width="320" height="180">
 </div>
 
+This page is for editing themes.
+
 Visiting Professor, Natural Language Processing Department, [MBZUAI](https://mbzuai.ac.ae/), UAE  
 
 Professor, Center for Language AI Research, [Tohoku University](http://www.tohoku.ac.jp/english/) (Cross appointment)  
